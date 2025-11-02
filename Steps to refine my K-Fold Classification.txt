@@ -1,0 +1,12 @@
+Refine the models with this and use dlogis instaed of dbinorm
+
+Check homework 2 for examples
+
+
+After making predictions and getting coefficient from the training model then,
+
+we want to predict based in datafrom the tested dataset
+
+Do it with the link() and sim() functions
+
+then when i get the values from sim() i can then compared (0 -1) Grass Tetany or Milk Fever column
